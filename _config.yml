@@ -28,13 +28,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm passionate about contributing to Open Source projects.
   Over the past few years, I have had the opportunity to contribute to and maintain several open-source software (OSS) libraries within the ZIO ecosystem.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: https://mnedokushev.me/ # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: MNedokushev
+github_username:  grouzen
 
 # Build settings
 # theme: minima
-remote_theme: no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
