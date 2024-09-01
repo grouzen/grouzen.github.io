@@ -18,21 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Mykhailo Nedokushev
+email: michael.nedokushev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my personal website.
+  Software engineer with 15+ years of experience.
+  Currently residing in Porto, Portugal.
+  I've been using Scala as my daily driver to develop complex software systems in different domains.
+  I'm passionate about contributing to Open Source projects.
+  Over the past few years, I have had the opportunity to contribute to and maintain several open-source software (OSS) libraries within the ZIO ecosystem.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
+
+# include:
+#   - _posts
+
+theme_config:
+  show_description: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
