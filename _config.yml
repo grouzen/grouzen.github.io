@@ -35,11 +35,13 @@ github_username:  grouzen
 # Build settings
 # theme: minima
 remote_theme: riggraz/no-style-please
+#theme: no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
-# include:
-#   - _posts
+include:
+  - _posts
 
 theme_config:
   show_description: true
