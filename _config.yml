@@ -35,7 +35,7 @@ github_username:  grouzen
 # Build settings
 # theme: minima
 remote_theme: riggraz/no-style-please
-#theme: no-style-please
+# theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -44,6 +44,8 @@ include:
   - _posts
 
 theme_config:
+  appearance: "light"
+  date_format: "%Y-%m-%d"
   show_description: true
 
 # Exclude from processing.

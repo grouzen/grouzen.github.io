@@ -5,6 +5,8 @@ tags: scala macros zio schema parquet
 slug: unpacking-zio-schema-accessors
 ---
 
+![The image](../assets/images/unpacking-zio-schema-accessors-title.webp)
+
 # ZIO Apache Parquet
 
 I've recently been hacking on my new library, [ZIO Apache Parquet](https://github.com/grouzen/zio-apache-parquet). The main reason why I decided to build this library is to get my hands dirty by exploring one quite interesting library: [ZIO Schema](https://zio.dev/zio-schema/).
