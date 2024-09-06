@@ -1,17 +1,26 @@
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
-    {% feed_meta %}
-    {% seo %}
-    
-    {% if site.goat_counter and jekyll.environment == "production" %}
-      {% include goat_counter.html %}
-    {% endif %}
-  
-    <link rel="shortcut icon" type="image/x-icon" href="/{{ site.favicon }}" />
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
-    <link rel="stylesheet" href="{{ site.url }}/assets/css/custom.css" />
-  </head>
-  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8TWVT5M1Y"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-Q8TWVT5M1Y');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  {% feed_meta %}
+  {% seo %}
+
+  {% if site.goat_counter and jekyll.environment == "production" %}
+  {% include goat_counter.html %}
+  {% endif %}
+
+  <link rel="shortcut icon" type="image/x-icon" href="/{{ site.favicon }}" />
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/custom.css" />
+</head>
