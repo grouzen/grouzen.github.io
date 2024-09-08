@@ -10,7 +10,7 @@ slug: unpacking-zio-schema-accessors
 
 > [ZIO Schema](https://github.com/zio/zio-schema) is a [ZIO](https://zio.dev/)-based library for modeling the schema of data structures as first-class values.
 
-The big part of it is an automated, macro-based derivation of `zio.schema.Schema` from your type classes. It has been adapted by many libraries within the ZIO ecosystem, which makes it a good candidate to include in your next ZIO-powered library when it comes to codec derivation. What makes it even cooler is an underdocumented feature: Accessors. There is not much information available on the internet about this library, so I've decided to share some of my findings about it.
+The big part of it is an automated, macro-based derivation of `zio.schema.Schema` from your case classes. It has been adapted by many libraries within the ZIO ecosystem, which makes it a good candidate to include in your next ZIO-powered library when it comes to codec derivation. What makes it even cooler is an underdocumented feature: Accessors. There is not much information available on the internet about this library, so I've decided to share some of my findings about it.
 
 # ZIO Apache Parquet
 
