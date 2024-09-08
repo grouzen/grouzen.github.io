@@ -5,7 +5,7 @@ tags: scala macros zio schema parquet
 slug: unpacking-zio-schema-accessors
 ---
 
-![The image](../assets/images/unpacking-zio-schema-accessors-title.webp)
+![The image](/assets/images/unpacking-zio-schema-accessors-title.webp)
 
 
 > [ZIO Schema](https://github.com/zio/zio-schema) is a [ZIO](https://zio.dev/)-based library for modeling the schema of data structures as first-class values.
