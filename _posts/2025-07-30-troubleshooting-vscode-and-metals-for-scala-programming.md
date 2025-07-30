@@ -41,7 +41,7 @@ Why I personally have been using Metals all this time and never looked back at I
 
 The reasons are:
 
-🔄 Speed of compiler feedback and IntelliSense.
-🔥 Working debugger.
-💡 Brilliant Scala 2 & 3 support, including macros.
-📖 Java-based desktop software (including IDE) is a mistake!
+- 🔄 Speed of compiler feedback and IntelliSense.
+- 🔥 Working debugger.
+- 💡 Brilliant Scala 2 & 3 support, including macros.
+- 📖 Java-based desktop software (including IDE) is a mistake!
