@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<header>
+  <h1>{{ site.title }}</h1>
+
+  <a href="/blog.html">[Blog]</a>
+
+  {%-if site.theme_config.show_description-%}
+    <p>{{ site.description }}</p>
+  {%-endif-%}
+</header>
+
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{{ content }}
+
+<h2>Blog entries</h2>
+
+You may enjoy reading some of my blog entries
+
+{% include post_list.html %}

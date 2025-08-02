@@ -21,21 +21,17 @@
 title: Mykhailo Nedokushev
 email: michael.nedokushev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website.
-  Software engineer with 15+ years of experience.
-  Currently residing in Porto, Portugal.
-  I've been using Scala as my daily driver to develop complex software systems in different domains.
-  I'm passionate about contributing to Open Source projects.
-  Over the past few years, I have had the opportunity to contribute to and maintain several open-source software (OSS) libraries within the ZIO ecosystem.
+  I'm a passionate software engineer with 15+ years of experience, currently based in Porto, Portugal. 
+  My primary focus for the past decade has been Scala, developing complex systems in video streaming and fintech domains.
+  I'm a strong believer in open source and enjoy contributing – especially to projects within the ZIO ecosystem.  Check out my contributions below!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://mnedokushev.me/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MNedokushev
 github_username:  grouzen
 
 # Build settings
-# theme: minima
-remote_theme: riggraz/no-style-please
-# theme: no-style-please
+# remote_theme: riggraz/no-style-please
+theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -44,8 +40,9 @@ include:
   - _posts
 
 theme_config:
-  appearance: "light"
+  appearance: "auto"
   date_format: "%Y-%m-%d"
+  back_home_text: "← [Home]"
   show_description: true
 
 # Exclude from processing.
