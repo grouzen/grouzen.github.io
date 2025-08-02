@@ -4,3 +4,24 @@ img {
   margin: 4rem auto;
   padding: 0 1rem;
 }
+
+div.highlighter-rouge code {
+  white-space: pre;
+  overflow-x: auto;
+  display: block;
+  overflow-wrap: normal;
+}
+
+@media (prefers-color-scheme: dark) {
+  code {
+    color: white;
+    background: burlywood;
+  }  
+}
+
+@media (prefers-color-scheme: light) {
+  code {
+    color: black;
+    background: ghostwhite;
+  }  
+}
