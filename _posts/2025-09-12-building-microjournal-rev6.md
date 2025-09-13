@@ -20,13 +20,17 @@ I can't remember how and where I came across the Microjournal, but I got that fe
 - electronics, computers, keyboards, etc., that you need to wire together
 - and, of course, software.
 
-Luckily, the author and maker of it runs an [online shop](https://www.tindie.com/stores/unkyulee/) where you can choose from various options tailored to different types of users. You can buy either an almost-ready-to-use device or a lovely package of individual parts that need to be assembled almost from scratch. I've taken the latter option, of course. For even more tech-savvy enthusiasts, there is always the option to follow a build guide available on GitHub for making it completely on their own. It requires having a 3D printer at home, which I don't have yet.
+Luckily, Un Kyu Lee, the creator of the Microjournal, runs an [online shop](https://www.tindie.com/stores/unkyulee/) where you can choose from various options tailored to different types of users. You can buy either an almost-ready-to-use device or a lovely package of individual parts that need to be assembled almost from scratch. I've taken the latter option, of course. For even more tech-savvy enthusiasts, there is always the option to follow a build guide available on GitHub for making it completely on their own. It requires having a 3D printer at home, which I don't have yet.
 
 # Building process
 
-I think it is time to get to the main point of this article. How it feels to build the [Microjournal Rev.6 DIY Kit](https://www.tindie.com/products/unkyulee/diy-kit-micro-journal-rev6/).
+Now I want to share how it feels to build the [Microjournal Rev.6 DIY Kit](https://www.tindie.com/products/unkyulee/diy-kit-micro-journal-rev6/).
 
 Given my personal life story, it may be obvious that I know how to handle a soldering iron and a screwdriver. So the entire process was quite smooth for me at every stage.
+
+## Color scheme
+
+I imagined a black/orange color scheme since I like these colors for some reason. However, this color scheme was not available. I asked Un Kyu Lee whether it is possible to have it, and he kindly said that he would try to make it happen. This is lovely!
 
 ## Keyboard PCB
 
@@ -54,7 +58,7 @@ Then you need to connect the keyboard to the ESP32 board. It is being done by so
 
 ## Screen and SD card slot
 
-The next step is to wire up the screen. I would say it was one of the most annoying parts of the build process due to slightly convoluted explanations in the official build guide. So I hope this article will help other people go through it. 
+The next step is to wire up the screen. I would say it was one of the most challenging parts of the build process due to slightly convoluted explanations in the official build guide. So I hope this article will help other people go through it.
 
 ![](/assets/images/building-microjournal-rev6/PXL_20250827_160258868.jpg)
 
@@ -84,6 +88,8 @@ I decided to hold off on buying key switches and keycaps until I make sure the d
 
 Somehow, I came across [Akko V3 Cream Black Pro](https://akkogear.eu/products/v3-cream-black-pro-switch-45pcs) switches and bought them at the official web store. I had to get two items instead of one since I need 48 switches when each item contains 45 pieces. But this is not a big deal considering the price.
 
+![](/assets/images/building-microjournal-rev6/PXL_20250910_133508690.jpg)
+
 Surprisingly, new keycaps may easily cost you more than $100. Fortunately, the second-hand market is flourishing, and you can find pretty neat stuff for a small amount of money.
 
 I found my new beautiful Japanese keycaps on Vinted for around $20. They are being delivered for the time being, so I'm using my old gaming keyboard (with German keymap) as a keycap donor for now.
@@ -91,6 +97,18 @@ I found my new beautiful Japanese keycaps on Vinted for around $20. They are bei
 ![](/assets/images/building-microjournal-rev6/PXL_20250912_150907932.jpg)
 
 ![](/assets/images/building-microjournal-rev6/PXL_20250912_150916146.jpg)
+
+## Findings on Shield
+
+ I found one undocumented feature of the shield part: you can use it as an additional stand. This increases the angle of the screen as shown in one of the pictures above.
+
+I was also curious whether the text is recognizable on the screen under bright sunlight. Not really, but here is another realization I've got: the shield may be used to create shade. 
+
+# My thoughts on using it
+
+As anticipated, I like it!
+It feels pretty solid and fun to type on. Surprisingly, it really helps me to be less distracted and more focused on dumping my thoughts into text.
+Indeed, it is difficult to be distracted by something else when you have such an amazing piece in your hands that you just built.
 
 # Conclusion
 
