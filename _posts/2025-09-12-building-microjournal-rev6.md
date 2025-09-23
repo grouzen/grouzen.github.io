@@ -4,8 +4,7 @@ title: Building Microjournal Rev.6
 tags: hardware diy microjournal electronics writerdeck esp32
 slug: building-microjournal-rev6
 ---
-
-![Top image](/assets/images/building-microjournal-rev6/PXL_20250912_150821937.jpg)
+![Top image](/assets/images/building-microjournal-rev6/PXL_20250923_152329692.jpg)
 
 I've built the [Microjournal](https://github.com/unkyulee/micro-journal) and want to share the joy of going through the process with the rest of the fans and whoever is still thinking about doing it. My story started with one simple idea: I wanted to build something physical, some object in the real world with my own hands.
 
@@ -92,11 +91,13 @@ Somehow, I came across [Akko V3 Cream Black Pro](https://akkogear.eu/products/v3
 
 Surprisingly, new keycaps may easily cost you more than $100. Fortunately, the second-hand market is flourishing, and you can find pretty neat stuff for a small amount of money.
 
-I found my new beautiful Japanese keycaps on Vinted for around $20. They are being delivered for the time being, so I'm using my old gaming keyboard (with German keymap) as a keycap donor for now.
+I found my new beautiful Japanese keycaps on Vinted for around $20. 
 
-![](/assets/images/building-microjournal-rev6/PXL_20250912_150907932.jpg)
+![](/assets/images/building-microjournal-rev6/PXL_20250923_152341573.jpg)
 
-![](/assets/images/building-microjournal-rev6/PXL_20250912_150916146.jpg)
+![](/assets/images/building-microjournal-rev6/PXL_20250923_152421783.jpg)
+
+![](/assets/images/building-microjournal-rev6/PXL_20250923_152431481.jpg)
 
 ## Findings on Shield
 
