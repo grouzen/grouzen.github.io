@@ -23,7 +23,7 @@ Luckily, Un Kyu Lee, the creator of the Microjournal, runs an [online shop](http
 
 # Building process
 
-Now I want to share how it feels to build the [Microjournal Rev.6 DIY Kit](https://www.tindie.com/products/unkyulee/diy-kit-micro-journal-rev6/).
+Now I want to share how it feels to build the [Microjournal Rev.6 DIY Kit](https://www.tindie.com/products/unkyulee/micro-journal-rev6-vivian-in-new-york/).
 
 Given my personal life story, it may be obvious that I know how to handle a soldering iron and a screwdriver. So the entire process was quite smooth for me at every stage.
 

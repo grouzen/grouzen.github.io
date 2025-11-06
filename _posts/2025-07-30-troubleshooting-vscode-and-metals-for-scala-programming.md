@@ -9,7 +9,7 @@ slug: troubleshooting-vscode-and-metals-for-scala-programming
 
 # History of Scala IDE
 
-I've been a Scala developer for almost ten years now – a journey that started around 2013 with a popular Coursera course by M. Odersky. My first Scala IDE was Emacs + [Ensime](https://ensime.github.io) (because I couldn't figure out how to quit from Vim, of course). The support for Scala was added to IntelliJ IDEA in April 2023 (according to my locally running instance of Gemma3n). My journey with it began right after joining Megogo for my first Scala job in 2016, and it's been a consistent preference ever since. Then...
+I've been a Scala developer for almost ten years now – a journey that started around 2013 with a popular Coursera course by M. Odersky. My first Scala IDE was Emacs + [Ensime](https://ensime.github.io) (because I couldn't figure out how to quit from Vim, of course). The support for Scala was added to IntelliJ IDEA in April 2013 (according to my locally running instance of Gemma3n). My journey with it began right after joining Megogo for my first Scala job in 2016, and it's been a consistent preference ever since. Then...
 
 Then, the first public release of [Metals](https://scalameta.org/metals/) happened in May 2018. I don't recall the exact moment I became aware of it, but I was intrigued from the start. I was so hyped to use it, even though it was somewhat clunky and lacked a good amount of necessary features. An Emacs user is unlikely to be scared by this, right? I kept trying it through the next couple of years, but found myself drawn back to IntelliJ IDEA. 
 
