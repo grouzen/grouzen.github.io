@@ -8,22 +8,4 @@ entries:
         url: https://github.com/grouzen/
       - title: Twitter (X.com)
         url: https://x.com/MNedokushev
-  - title: Open source projects
-    entries:
-      - title: Scala libraries in ZIO ecosystem
-        entries:
-          - title: ZIO Telemetry
-            url: https://github.com/zio/zio-telemetry/
-          - title: ZIO Apache Arrow
-            url: https://github.com/grouzen/zio-apache-arrow/
-          - title: ZIO Apache Parquet
-            url: https://github.com/grouzen/zio-apache-parquet/
-      - title: Rust applications
-        entries:
-          - title: Reprompt - Simple desktop GUI application to easily configure and manage multiple LLM tasks to avoid writing the same prompts repeatedly
-            url: https://github.com/grouzen/reprompt
-          - title: Ollana - Ollama over LAN - Auto-discover your Ollama server on your local network with hassle-free ease
-            url: https://github.com/grouzen/ollana
-    
-  
       
